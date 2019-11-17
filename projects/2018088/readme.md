@@ -107,3 +107,11 @@
 > - [Headphones](https://en.wikipedia.org/wiki/Headphones)
 > - [Smartwatch](https://en.wikipedia.org/wiki/Smartwatch)
 > - [Sound editing programms](https://en.wikipedia.org/wiki/Audio_editing_software)
+
+
+#### Άσκηση 3 / Παραδοτέο 3
+#### Τα ζητούμενα του τρίτου παραδοτέου είναι τα έξης:
+>add, edit, search for an appointment
+
+[Asciinema link](https://asciinema.org/a/281898 'Asciinema link')
+
